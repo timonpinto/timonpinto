@@ -8,7 +8,7 @@ I built a sound recorder that automatically records loud noises beyond a set thr
 |:--:|:--:|:--:|:--:|
 | Timon Pinto | Irvington High School | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+<img src="https://github.com/timonpinto/timonpinto/blob/main/Headstone.png?raw=true" width="403" height="302" />
   
 # Final Milestone
 My third and final milestone was modifiying the app code so that the sound recording saves to google drive instead of on the phone storage. I first created a google script so that a folder in my google drive could be accessed by my app. Then I used google API to link it to the app and I used the web feature on the MIT app inventor to set that folder, instead of the phone as the saving location. I did this by searching up tutorials on YouTube. A lot of them were outdated, but it worked.
