@@ -1,6 +1,8 @@
 ﻿# Noise Sensing Auto Recorder
 I built a sound recorder that automatically records loud noises beyond a set threshold. The microphone detects the noise level of sounds and if it's greater than the set threshold it will save the recording.
 
+![Project Image](Project image.HEIC)
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Timon Pinto | Irvington High School | Electrical Engineering | Incoming Junior
