@@ -1,5 +1,5 @@
 ﻿# Noise Sensing Auto Recorder
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I built a sound recorder that automatically records loud noises beyond a set threshold. The microphone detects the noise level of sounds and if it's greater than the set threshold it will save the recording.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
