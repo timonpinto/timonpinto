@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was connecting all the parts and loading the app onto a phone. I used an Arduino nano, bluetooth HC 05, HIgh Sensitivity Arduino Microphone, a buzzer, and obviously wires. I was planning on using LEDS but decided not to. I connected all the components like in the schematic below. Then I downloaded the app I created with the MIT App Inventor onto an android phone. I connected it via bluetooth. Some challenges I faced were that some parts like the arduino nano and microphone weren't ordered on time so I had to wait and I had some problems with the arduino connectivity with ports, so i had to install new drivers.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+<iframe width="690" height="388.125" src="https://www.youtube.com/embed/5jRdsDVFmwM" title="Timon P Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # First Milestone
   
 
