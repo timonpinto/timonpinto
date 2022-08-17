@@ -24,9 +24,7 @@ My second milestone was connecting all the parts and loading the app onto a phon
 
 <p></p>
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/timonpinto/timonpinto/main/schematic.png"> Schematic </a>
-</p>
+<p><a href="https://raw.githubusercontent.com/timonpinto/timonpinto/main/schematic.png" target="_blank" rel="noreferrer noopener">Schematic</a></p>
 
 
 # First Milestone
