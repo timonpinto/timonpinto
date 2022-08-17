@@ -22,10 +22,10 @@ My second milestone was connecting all the parts and loading the app onto a phon
 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/5jRdsDVFmwM?rel=0&modestbranding=1" title="Timon P Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p></p>
+# 
 
 <p align="center">
-<img src="https://github.com/timonpinto/timonpinto/blob/main/schematic-large.png?raw=true" width="403" height:="359.342" />
+<img src="https://raw.githubusercontent.com/timonpinto/timonpinto/main/schematic.png" width="400" height:="356" />
 </p>
 
 
